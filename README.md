@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I'm currently working on completing the CS50 course
-- 🌱 I'm currently learning the C language
+- 🔭 I'm currently working on my GitHub organization
+- 🌱 I'm currently learning Python with CS50p
 - 🤔 I'm looking for help with understanding time complexity
 <!--
 **dalanedoop/dalanedoop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
